@@ -1,0 +1,32 @@
+#main{
+    width: 100%;
+    height: 900px;
+    background-image: url(../../assets/service_images/backgroundimage3.jpg);
+    background-size: cover;
+}
+
+#im1{
+    margin-top: 250px;
+    margin-left: 150px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+#im2{
+    margin-top: 250px;
+    margin-left: 100px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+#im3{
+    margin-top: 250px;
+    margin-left: 100px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+#allimages{
+    display: flex;
+ 
+  
+
+}
