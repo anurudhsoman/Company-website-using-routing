@@ -1,5 +1,15 @@
 # Gadgeon
 
+---------------------------------------------------------------------------------------------
+## DESCIPTION
+---------------------------------------------------------------------------------------------
+ 
+ 
+This project summarize the implementation and  Routing,bootstrap.
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
